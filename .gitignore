@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
 /public/storage
@@ -5,6 +6,9 @@ Homestead.yaml
 Homestead.json
 .env
 ### Laravel template
+=======
+vendor/
+>>>>>>> 18723d95b7de1245fb7ec2eb68b8737743175f9c
 node_modules/
 
 # Laravel 4 specific
@@ -15,6 +19,7 @@ app/storage/
 bootstrap/cache/
 .env.*.php
 .env.php
+<<<<<<< HEAD
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
@@ -72,3 +77,9 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+=======
+.env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+>>>>>>> 18723d95b7de1245fb7ec2eb68b8737743175f9c
